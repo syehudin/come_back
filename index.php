@@ -3,3 +3,4 @@
 <?php echo "line 3" ?>
 <?php echo "next line" ?>
 <?php echo "ok" ?>
+<!-- Project done! -->
